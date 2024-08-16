@@ -16,7 +16,10 @@
    - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
    ## Resultado
+   
+ ![giphy](https://github.com/user-attachments/assets/b3709861-73f9-47db-840c-be61513a9c6b)
+ 
 <footer align="center">
-            <img src="giphy.gif">
+            <img src="![giphy](https://github.com/user-attachments/assets/b3709861-73f9-47db-840c-be61513a9c6b)" align="center">
             <p>OBS: Desculpe pela qualidade do GIF</p>
 </footer>
