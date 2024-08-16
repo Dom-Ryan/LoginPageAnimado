@@ -5,7 +5,7 @@
 
 ## 📚 Sobre
   
-  Paginas com vidas são infinitamente melhores do que página estática(desculpe se você pensa contrario). Então, tomei como espiração o BrCode, e fiz minha versão de uma **pagina animada**.
+  Paginas com vidas são infinitamente melhores do que página estática(desculpe se você pensa contrario). Então, tomei como inspiração o BrCode, e fiz minha versão de uma **pagina animada**.
 
 ## 😁 Porque páginas animadas?
   Pagina de Login, geralmente são a porta de entrada do usuário, começar a agradar o usuário desde cedo é uma otima maneira de trazer a satisfação do cliente. Os usuarios tende a achar mais legal uma pagina interativa, com vida do que uma totalmente estática.
