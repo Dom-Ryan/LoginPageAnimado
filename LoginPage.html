@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="estetica.css">
+
+</head>
+<body>
+    <div class="ring">
+        <i style="--clr:#00ff0a;"></i>
+        <i style="--clr:#ff0057;"></i>
+        <i style="--clr:#fffd44;"></i>
+    <div class="login">
+    <h2>Login</h2>
+    <div class="inputBx">
+        <input type="text" name="Username" id="Username" placeholder="Username"/>
+    </div>
+    <div class="inputBx" >
+        <input type="password" name="Username" id="Password" placeholder="Senha"/>
+    </div>
+    <div class="inputBx">
+        <input type="submit" onclick="Login()">
+    </div>
+    <div class="link">
+        <a href="#">Esqueci a senha</a>
+        <a href="#">Cadastrar</a>
+    </div>
+    </div>
+    </div>
+    <script>
+    function Login(){ 
+    let usuario = document.getElementById('Username').value;
+    let senha = document.getElementById('Password').value;
+
+    console.log(usuario);
+    console.log(senha);
+    
+    if (usuario == 'adm' && senha == 'adm'){
+        alert("Sucesso ao entrar!");
+    }else {
+        alert("Dados Incorretos!");
+    }
+}
+    </script>
+</body>
+</html>
