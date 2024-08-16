@@ -1,5 +1,5 @@
+![LoginPage](https://github.com/user-attachments/assets/7393b686-3843-42e3-b988-bd925acbc747)
 <h1  align="center">
-    <img src="LoginPage.png" >
     <p>Pagina de Login Animada 😁</p>
 </h1>
 
